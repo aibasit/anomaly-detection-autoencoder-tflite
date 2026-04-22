@@ -71,27 +71,13 @@ This project implements a deep learning–based anomaly detection system for int
 
 ---
 
-## 📂 Project Structure
-
-anomaly-detection-autoencoder-tflite/
-│
-├── models/ # Trained and quantized models
-│ ├── autoencoder_final.keras
-│ ├── best_autoencoder.keras
-│ └── autoencoder_quantized.tflite
-│
-├── plots/ # Visualizations and evaluation graphs
-│
-├── anomaly_detection_autoencoder.py # Main implementation
-├── MLES_Assignment3_AB.ipynb # Notebook version
-├── comparison_results.csv # Model comparison data
-├── README.md
-
 # 🎯 Applications
 - Intrusion Detection Systems (IDS)
 - Cybersecurity anomaly detection
 - Embedded AI systems
 - Real-time network monitoring
+
+---
 
 
 # 🔮 Future Work
